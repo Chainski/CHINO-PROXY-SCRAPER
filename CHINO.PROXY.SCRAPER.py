@@ -33,10 +33,10 @@ print(faded_text)
 
 info = '''
 ╔══════════════════════════════════════════════╗
-║CHINO PROXY SCRAPER 1.0.0.1                   ║
-║coded by CHINOTECH                            ║
-║For Educational Purposes Only                 ║
-║Telegram Channel : https://t.me/chinotech     ║
+║ CHINO PROXY SCRAPER 1.0.0.1                  ║
+║ coded by CHINOTECH                           ║
+║ For Educational Purposes Only                ║
+║ Telegram Channel : https://t.me/chinotech    ║
 ╚══════════════════════════════════════════════╝
 '''
 print(Fore.LIGHTCYAN_EX+info)

@@ -9,7 +9,7 @@
 #### CHINO PROXY SCRAPER is a python tool to scrape proxies for free using [OpenProxyList](https://openproxylist.xyz) API
 
 - Released : 10/08/21
-- Last Updated : 28-12-21
+- Last Updated : 14-01-22
 
 ### Installation
 - Run install.bat and wait for dependencies to be installed.

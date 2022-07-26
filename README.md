@@ -12,6 +12,8 @@
 - Released : 10/08/21
 - Last Updated : 14-01-22
 
+*NOTE: This library isn't designed for production use. It's advised to use your own proxies or purchase a service which provides an API. These are merely free ones that are retrieved from sites and should only be used for development or testing purposes.*
+
 ### Installation
 - Run install.bat and wait for dependencies to be installed.
 - Finally run CHINO.PROXY.SCRAPER.py

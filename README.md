@@ -4,7 +4,7 @@
 <a href="https://github.com/chainski/CHINO-PROXY-SCRAPER/releases"><img src="https://img.shields.io/github/v/release/chainski/CHINO-PROXY-SCRAPER?style=plastic"></a> 
 
   
-![image](https://user-images.githubusercontent.com/96607632/148774501-a66e805b-70e9-40cf-b1bd-1e204b793800.png)
+![main](https://user-images.githubusercontent.com/96607632/181097427-ed5e4a28-2630-4c63-8b30-5a8030aa8b43.png)
 
 
 #### CHINO PROXY SCRAPER is a python tool to scrape proxies for free using [OpenProxyList](https://openproxylist.xyz) API

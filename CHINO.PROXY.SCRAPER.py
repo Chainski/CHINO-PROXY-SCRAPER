@@ -9,14 +9,6 @@ import sys
 from pystyle import *
 
 
-test_url = r'https://www.youtube.com/channel/UCR55c-mtcH86O-QvOQC_oFg?sub_confirmation=1'
-
-with open('Subscribe.url','w') as f:
-    f.write(f"""[InternetShortcut]
-URL={test_url}
-""")
-
-
 os.system('cls')
 os.system('mode con: cols=120 lines=50')
 

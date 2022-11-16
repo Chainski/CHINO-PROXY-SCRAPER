@@ -7,7 +7,7 @@
 ![CHINO PROXY SCRAPER_6EvYY0fssj](https://user-images.githubusercontent.com/96607632/181097959-8ca9e874-6059-4a06-a0e2-4e76fdde4c20.png)
 
 
-#### A very fast automatic proxy scraper. Can scrape approx. 50k-70k proxies within seconds.
+#### A very fast automatic proxy scraper. Tool can scrape approx. 50k-70k proxies within seconds.
 
 - Released : 10/08/21
 - Last Updated : 07-26-22

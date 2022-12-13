@@ -10,7 +10,7 @@
 #### A very fast automatic proxy scraper. Tool can scrape approx. 50k-70k proxies within seconds.
 
 - Released : 10/08/21
-- Last Updated : 07-26-22
+- Last Updated : 12-13-2022
 
 *NOTE: This library isn't designed for production use. It's advised to use your own proxies or purchase a service which provides an API. These are merely free ones that are retrieved from sites and should only be used for development or testing purposes.*
 

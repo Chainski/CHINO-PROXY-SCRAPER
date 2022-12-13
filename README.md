@@ -18,6 +18,9 @@
 - Run install.bat and wait for dependencies to be installed.
 - Finally run CHINO.PROXY.SCRAPER.py
 
+### Credits
+- https://github.com/billythegoat356/pystyle
+
 #### If you dont have Python you can download the compiled Windows version from [HERE](https://github.com/chainski/CHINO-PROXY-SCRAPER/releases)
 
 ### Support and Contributions

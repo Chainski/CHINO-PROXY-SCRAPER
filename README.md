@@ -2,7 +2,7 @@
 <a href="https://github.com/chainski/CHINO-PROXY-SCRAPER"><img src="https://img.shields.io/badge/PYTHON-3.10-green"></a>
 <a href="https://github.com/chainski/CHINO-PROXY-SCRAPER"><img src="https://img.shields.io/badge/license-GPL--3.0-orange"></a> 
 <a href="https://github.com/chainski/CHINO-PROXY-SCRAPER/releases"><img src="https://img.shields.io/github/v/release/chainski/CHINO-PROXY-SCRAPER?style=plastic"></a> 
-<a href="https://github.com/chainski/CHINO-PROXY-SCRAPER/releases"><img src="https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FChainski%2FCHINO-PROXY-SCRAPER"></a> 
+<a href="https://github.com/chainski/CHINO-PROXY-SCRAPER"><img src="https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FChainski%2FCHINO-PROXY-SCRAPER"></a> 
   
 ![CHINO PROXY SCRAPER_6EvYY0fssj](https://user-images.githubusercontent.com/96607632/181097959-8ca9e874-6059-4a06-a0e2-4e76fdde4c20.png)
 

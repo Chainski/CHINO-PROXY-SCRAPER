@@ -25,10 +25,3 @@
 - https://github.com/billythegoat356/pystyle
 
 #### If you dont have Python you can download the compiled Windows version from [HERE](https://github.com/chainski/CHINO-PROXY-SCRAPER/releases)
-
-<a href="https://www.blockchain.com/btc/address/16T1fUehoGR4E2sj98u9e9mKuQ7uSLvxRJ"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg"></a>
-
-
-
-
-

@@ -1,11 +1,14 @@
+<p align="center">
 <a href="https://github.com/chainski/CHINO-PROXY-SCRAPER"><img src="https://img.shields.io/badge/OPEN--SOURCE-YES-green"></a>
 <a href="https://github.com/chainski/CHINO-PROXY-SCRAPER"><img src="https://img.shields.io/badge/PYTHON-3.10-green"></a>
 <a href="https://github.com/chainski/CHINO-PROXY-SCRAPER"><img src="https://img.shields.io/badge/license-GPL--3.0-orange"></a> 
-<a href="https://github.com/chainski/CHINO-PROXY-SCRAPER/releases"><img src="https://img.shields.io/github/v/release/chainski/CHINO-PROXY-SCRAPER?style=plastic"></a> 
-<a href="https://github.com/chainski/CHINO-PROXY-SCRAPER"><img src="https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FChainski%2FCHINO-PROXY-SCRAPER"></a> 
-  
-![CHINO PROXY SCRAPER_6EvYY0fssj](https://user-images.githubusercontent.com/96607632/181097959-8ca9e874-6059-4a06-a0e2-4e76fdde4c20.png)
+<a href="https://github.com/chainski/CHINO-PROXY-SCRAPER/releases"><img src="https://img.shields.io/github/v/release/chainski/CHINO-PROXY-SCRAPER?style=flat"></a> 
+<a href="https://github.com/chainski/CHINO-PROXY-SCRAPER"><img src="https://hits.sh/github.com/Chainski/CHINO-PROXY-SCRAPER.svg?label=views&color=007ec6&labelColor=9f9f9f"></a> 
+</p>
 
+<p align="center"> 
+<img src="https://github.com/Chainski/CHINO-PROXY-SCRAPER/assets/96607632/535f24f1-e071-4d5f-9583-9fcb37f0724e", width="900", height="360">
+</p>
 
 #### A very fast automatic proxy scraper. Tool can scrape approx. 50k-70k proxies within seconds.
 
